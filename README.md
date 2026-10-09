@@ -1,5 +1,3 @@
-# projeto-engenharia-app
-
 # 🚀 Plataforma Antigravity Engenharia
 
 [![Status](https://img.shields.io/badge/Status-Produção-success.svg)]()
